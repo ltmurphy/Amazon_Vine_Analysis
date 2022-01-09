@@ -43,4 +43,4 @@
 
 
 ## Summary
-### state if there is any positivity bias for reviews in the vine program. use the results to support statement. provide one additional analysis that you could do with the dataset to support your statement.
+### The results indicate a slight positivity bias in the Vine reviews versus the non-Vine reviews. This is highlighted by forty-six five star Vine reviews compared to the thirty-one five star non-Vine reviews. However, this is not necessarily the truest view of the data. Analysing the data to see which purchases are verified versus non-verified would provide a more complete picture. Verified purchases are purchased from Amazon at full price. Non-verified purchases are not purchased from Amazon or are purchased at a discount.
